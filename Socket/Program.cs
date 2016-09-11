@@ -176,7 +176,7 @@ namespace SocketServer
 
                 //string s = proc.StandardOutput.ReadToEnd();
                 //Console.WriteLine(s);
-                //Console.ReadLine();
+                //Console.ReadLine(); add test for GIT
 
             }
 
